@@ -16,11 +16,15 @@ This is a collection of useful Hyperparameter Tuning Methods.
 # Grid Search
 
 # Random Search
+[[Random Search for Hyper-Parameter Optimization]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 
 # Bayesian optimization
+[[A Tutorial on Bayesian Optimization]](https://arxiv.org/pdf/1807.02811.pdf)
+[[A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning]](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050fmmm)
 
 # Evolutionary optimization
 
 # Population-based optimization
+[[Population Based Training of Neural Networks]](https://arxiv.org/pdf/1711.09846.pdf)
 
 # reinforcement learning
