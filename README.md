@@ -20,8 +20,7 @@ This is a collection of useful Hyperparameter Tuning Methods.
 [[Random Search for Hyper-Parameter Optimization]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)  
 
 # Bayesian optimization
-[[A Tutorial on Bayesian Optimization]](https://arxiv.org/pdf/1807.02811.pdf)  
-[[A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning]](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050fmmm)  
+[[A Tutorial on Bayesian Optimization]](https://arxiv.org/pdf/1807.02811.pdf)   
 
 # Evolutionary optimization
 
