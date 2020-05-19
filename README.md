@@ -23,6 +23,7 @@ This is a collection of useful Hyperparameter Tuning Methods.
 [[A Tutorial on Bayesian Optimization]](https://arxiv.org/pdf/1807.02811.pdf)   
 
 # Evolutionary optimization
+[[Evolutionary optimization: A review and implementation of several algorithms]](https://www.strong.io/blog/evolutionary-optimization)
 
 # Population-based optimization
 [[Population Based Training of Neural Networks]](https://arxiv.org/pdf/1711.09846.pdf)  
