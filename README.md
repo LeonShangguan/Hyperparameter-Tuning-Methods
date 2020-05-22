@@ -23,9 +23,9 @@ This is a collection of useful Hyperparameter Tuning Methods.
 [[A Tutorial on Bayesian Optimization]](https://arxiv.org/pdf/1807.02811.pdf)   
 
 # Evolutionary optimization
-[[Evolutionary optimization: A review and implementation of several algorithms]](https://www.strong.io/blog/evolutionary-optimization)
-[[Recent advances in differential evolution – An updated survey]](https://www.sciencedirect.com/science/article/abs/pii/S2210650216000146)
-[[Differential Evolution (DE) for Continuous Function Optimization]](https://www1.icsi.berkeley.edu/~storn/code.html)
+[[Evolutionary optimization: A review and implementation of several algorithms]](https://www.strong.io/blog/evolutionary-optimization)  
+[[Recent advances in differential evolution – An updated survey]](https://www.sciencedirect.com/science/article/abs/pii/S2210650216000146)  
+[[Differential Evolution (DE) for Continuous Function Optimization]](https://www1.icsi.berkeley.edu/~storn/code.html)  
 
 # Population-based optimization
 [[Population Based Training of Neural Networks]](https://arxiv.org/pdf/1711.09846.pdf)  
