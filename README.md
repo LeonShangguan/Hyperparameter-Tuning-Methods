@@ -21,6 +21,8 @@ This is a collection of useful Hyperparameter Tuning Methods.
 
 # Bayesian optimization
 [[A Tutorial on Bayesian Optimization]](https://arxiv.org/pdf/1807.02811.pdf)   
+[[A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning]](https://arxiv.org/pdf/1012.2599.pdf)   
+
 
 # Evolutionary optimization
 [[Evolutionary optimization: A review and implementation of several algorithms]](https://www.strong.io/blog/evolutionary-optimization)  
