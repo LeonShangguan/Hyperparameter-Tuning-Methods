@@ -40,6 +40,9 @@ This is a collection of useful Hyperparameter Tuning Methods.
 # Population-based optimization
 [[Population Based Training of Neural Networks]](https://arxiv.org/pdf/1711.09846.pdf)  
 
-# reinforcement learning
+# Reinforcement learning
 [[Hyp-RL : Hyperparameter Optimization by Reinforcement Learning]](https://arxiv.org/pdf/1906.11527.pdf)  
 [[Neural Architecture Search with Reinforcement Learning]](https://arxiv.org/pdf/1611.01578.pdf)  
+
+# Others
+[[Gaussian Processes for Machine Learning]](http://www.gaussianprocess.org/gpml/chapters/RW.pdf)  
