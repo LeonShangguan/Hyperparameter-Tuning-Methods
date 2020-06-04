@@ -22,6 +22,14 @@ This is a collection of useful Hyperparameter Tuning Methods.
 # Bayesian optimization
 [[A Tutorial on Bayesian Optimization]](https://arxiv.org/pdf/1807.02811.pdf)   
 [[A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning]](https://arxiv.org/pdf/1012.2599.pdf)   
+[[A New Method of Locating the Maximum Point of an Arbitrary Multipeak Curve in the Presence of Noise]](https://asmedigitalcollection.asme.org/fluidsengineering/article-abstract/86/1/97/392213/A-New-Method-of-Locating-the-Maximum-Point-of-an?redirectedFrom=fulltext) POI  
+[[Efficient Global Optimization of Expensive Black-Box Functions]](https://link.springer.com/article/10.1023/A:1008306431147) EI  
+[[Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design]](http://www-stat.wharton.upenn.edu/~skakade/papers/ml/bandit_GP_icml.pdf) UCB  
+[[Predictive Entropy Search for Efficient Global Optimization of Black-box Functions]](http://mlg.eng.cam.ac.uk/hoffmanm/papers/hernandez-lobato:2014.pdf) Entropy  
+[[Batch Bayesian Optimization via Local Penalization]](http://proceedings.mlr.press/v51/gonzalez16a.pdf)  
+[[BOHB: Robust and Efficient Hyperparameter Optimization at Scale]](http://proceedings.mlr.press/v80/falkner18a/falkner18a.pdf)  
+[[LEARNING CURVE PREDICTION WITH BAYESIAN NEURAL NETWORKS]](https://ml.informatik.uni-freiburg.de/papers/17-ICLR-LCNet.pdf)  
+[[Scalable Bayesian Optimization Using Deep Neural Networks]](https://arxiv.org/pdf/1502.05700.pdf)  
 
 
 # Evolutionary optimization
