@@ -2,6 +2,7 @@
 This is a collection of useful Hyperparameter Tuning Methods.
 
 ## Overview
+- [general](#general)
 - [review](#review)
 - [gridsearch](#gridsearch)
 - [random search](#random-search)
@@ -9,6 +10,9 @@ This is a collection of useful Hyperparameter Tuning Methods.
 - [Evolutionary optimization](#evolutionary-optimization)
 - [Population-based optimization](#Population-based)
 - [reinforcement learning](#hpo-by-rl)
+
+# General
+[[A Visual Exploration of Gaussian Processes]](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 # Review
 [[An Intro to Hyper-parameter Optimization using Grid Search and Random Search]](https://medium.com/@cjl2fv/an-intro-to-hyper-parameter-optimization-using-grid-search-and-random-search-d73b9834ca0a)  
